@@ -97,7 +97,7 @@ h2 {
   background: none repeat scroll 0 0 #f9f9f9;
 }
 .sk-spinner-wordpress.sk-spinner {
-  background-color: #eb0bcd;
+  background-color: rgb(243, 189, 40);
   width: 30px;
   height: 30px;
   border-radius: 30px;
