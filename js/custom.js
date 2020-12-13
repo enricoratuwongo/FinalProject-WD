@@ -11,9 +11,9 @@ $(window).load(function(){
 $(function(){
     jQuery(document).ready(function() {
 		$('body').backstretch([
-	 		 "images/tm-bg-slide-1.jpg", 
-	 		 "images/tm-bg-slide-2.jpg",
-			 "images/tm-bg-slide-3.jpg"
+	 		 "images/tm-bg-slide-1.JPG", 
+	 		 "images/tm-bg-slide-2.JPG",
+			 "images/tm-bg-slide-3.JPG"
 	 			], 	{duration: 3200, fade: 1300});
 		});
 })
